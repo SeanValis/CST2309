@@ -1,0 +1,27 @@
+body {margin: 8pt;
+background-color: antiquewhite}
+
+a {text-decoration: none;
+color: black}
+
+p {font-family: Verdana, Garamond;
+font-size; 11pt}
+
+table {font-family: Verdana, Garamond;
+font-size; 10pt
+border-color: #6d6f7b;
+border-style: double}
+
+th {background-color: #6d6f7b
+color: white;
+text-align: left}
+
+caption {font-size: 8pt;
+font-style: italic}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
